@@ -1,2 +1,2 @@
-# first_year_practice
+# practice_for_C
 Practicing C++
