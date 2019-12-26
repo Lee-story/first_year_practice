@@ -11,7 +11,7 @@ int main()
 	cin>>weight;
 	float BMI=0;
 	BMI=weight*703/(height*height); // use number1 and number2 to sum the BMI
-	cout<<"your BMI is "<<BMI<<"¡C\n";
+	cout<<"your BMI is "<<BMI<<"Â¡C\n";
 	
 	cout<<"BMI VALUES\n";
     cout<<"underweight:less than 18.5\n";
